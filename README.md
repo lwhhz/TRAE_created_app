@@ -15,3 +15,4 @@ flutter build apk
 //编译Windows应用程序
 flutter build windows
 ```
+Windows 安装时会出现证书问题，这个问问ai就知道怎么解决了很简单😊
