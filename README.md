@@ -1,4 +1,4 @@
-# TRAE_created_app
+# Callduck_weather
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart)](https://dart.dev)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Android-lightgrey)](https://flutter.dev)  
