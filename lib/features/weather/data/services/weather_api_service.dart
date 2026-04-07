@@ -4,7 +4,7 @@ import 'package:callduck_weather/features/weather/domain/models/weather.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class WeatherApiService {
-  static const String defaultApiKey = '6899efde0bfdd085bece40d4fccf94a1';
+  static const String defaultApiKey = '';
   static const String defaultBaseUrl = 'https://restapi.amap.com/v3/weather/weatherInfo';
   static const String defaultCityCode = '110000';
 
