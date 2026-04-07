@@ -9,6 +9,7 @@
 <img src="https://github.com/user-attachments/assets/3c9052ce-a582-437d-9f75-4f0fa7eaf403" width="45%"/> <img src="https://github.com/user-attachments/assets/0ddc0ac0-2b4d-4cee-994b-7f1d8ee02268" width="45%"/>
 ### 编译
 ```
+//不建议编译！因为我还没研究明白，建议直接去release下成品。。
 //编译安卓apk
 flutter build apk
 
